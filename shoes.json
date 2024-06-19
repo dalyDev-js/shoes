@@ -6,35 +6,26 @@
               "old_price": null,
               "category": "Originals",
               "reviews": 10,
+              "in_stock": 23,
+              "location": "USA",
+              "buy_price": 140,
               "gender": "Men",
               "type": "Shoes",
               "size": [
-                     "M 4 / W 5",
-                     "M 4.5 / W 5.5",
-                     "M 5 / W 6  ",
-                     "M 5.5 / W 6.5",
-                     "M 6 / W 7  ",
-                     "M 6.5 / W 7.5",
-                     "M 7 / W 8",
-                     "M 7.5 / W 8.5",
-                     "M 8 / W 9",
-                     "M 8.5 / W 9.5",
-                     "M 9 / W 10 ",
-                     "M 9.5 / W 10.5",
-                     "M 10 / W 11",
-                     "M 10.5 / W 11.5",
-                     "M 11 / W 12",
-                     "M 11.5 / W 12.5",
-                     "M 12 / W 13",
-                     "M 12.5 / W 13.5",
-                     "M 13 / W 14",
-                     "M 13.5 / W 14.5",
-                     "M 14 / W 15"
+                     "4",
+                     "4.5",
+                     "5",
+                     "5.5",
+                     "6",
+                     "6.5",
+                     "7",
+                     "7.5"
+                    
               ],
               "available_colors": [
-                     "CORE BLACK",
-                     "CORE BLACK",
-                     "CARBON"
+                     "black",
+                     "white",
+                     "grey"
               ],
               "carousel_images": [
                      "https://adidas-testbucket.s3-us-west-1.amazonaws.com/NMD_R1_Shoes_Black_FV7969_01_standard.jpg",
@@ -77,35 +68,22 @@
               "old_price": 230,
               "category": "Originals",
               "reviews": 11,
+              "in_stock": 14,
+              "buy_price": 70,
+              "location": "EG",
               "gender": "Men",
               "type": "Shoes",
               "size": [
-                     "M 4 / W 5",
-                     "M 4.5 / W 5.5",
-                     "M 5 / W 6  ",
-                     "M 5.5 / W 6.5",
-                     "M 6 / W 7  ",
-                     "M 6.5 / W 7.5",
-                     "M 7 / W 8",
-                     "M 7.5 / W 8.5",
-                     "M 8 / W 9",
-                     "M 8.5 / W 9.5",
-                     "M 9 / W 10 ",
-                     "M 9.5 / W 10.5",
-                     "M 10 / W 11",
-                     "M 10.5 / W 11.5",
-                     "M 11 / W 12",
-                     "M 11.5 / W 12.5",
-                     "M 12 / W 13",
-                     "M 12.5 / W 13.5",
-                     "M 13 / W 14",
-                     "M 13.5 / W 14.5",
-                     "M 14 / W 15"
+                     "4",
+                     "4.5",
+                     "5",
+                     "5.5",
+                     "6",
+                     "6.5"
               ],
               "available_colors": [
-                     "CLOUD WHITE",
-                     "CLOUD WHITE",
-                     "CORE BLACK"
+                     "white",
+                     "black"
               ],
               "carousel_images": [
                      "https://adidas-testbucket.s3-us-west-1.amazonaws.com/NMD_R1+Shoes/f681053480464ff8bea5ab1b011351ba_9366.webp",
@@ -132,35 +110,23 @@
               "old_price": null,
               "category": "Originals",
               "reviews": 20,
+              "in_stock": 9,
+              "buy_price": 75,
+              "location": "UK",
               "gender": "Men",
               "type": "Shoes",
               "size": [
-                     "M 4 / W 5",
-                     "M 4.5 / W 5.5",
-                     "M 5 / W 6  ",
-                     "M 5.5 / W 6.5",
-                     "M 6 / W 7  ",
-                     "M 6.5 / W 7.5",
-                     "M 7 / W 8",
-                     "M 7.5 / W 8.5",
-                     "M 8 / W 9",
-                     "M 8.5 / W 9.5",
-                     "M 9 / W 10 ",
-                     "M 9.5 / W 10.5",
-                     "M 10 / W 11",
-                     "M 10.5 / W 11.5",
-                     "M 11 / W 12",
-                     "M 11.5 / W 12.5",
-                     "M 12 / W 13",
-                     "M 12.5 / W 13.5",
-                     "M 13 / W 14",
-                     "M 13.5 / W 14.5",
-                     "M 14 / W 15"
+                     "4",
+                     "4.5",
+                     "5",
+                     "5.5",
+                     "6",
+                     "6.5"
               ],
               "available_colors": [
-                     "CLOUD WHITE",
-                     "CLOUD WHITE",
-                     "CLOUD WHITE"
+                     "blue",
+                     "red",
+                     "silver"
               ],
               "carousel_images": [
                      "https://adidas-testbucket.s3-us-west-1.amazonaws.com/NMD_R1+Shoes/3/main.webp",
@@ -173,9 +139,7 @@
               "related_shoes": [
                      "https://adidas-testbucket.s3-us-west-1.amazonaws.com/NMD_R1+Shoes/3/main.webp",
                      "https://adidas-testbucket.s3-us-west-1.amazonaws.com/NMD_R1+Shoes/4/main.webp",
-                     "https://adidas-testbucket.s3-us-west-1.amazonaws.com/NMD_R1+Shoes/5/5.webp",
-                     "https://adidas-testbucket.s3-us-west-1.amazonaws.com/NMD_R1+Shoes/6/main.webp",
-                     "https://adidas-testbucket.s3-us-west-1.amazonaws.com/NMD_R1+Shoes/7/main.webp"
+                     "https://adidas-testbucket.s3-us-west-1.amazonaws.com/NMD_R1+Shoes/5/5.webp"
               ],
               "matching_items" : [
                      {
@@ -206,35 +170,24 @@
               "old_price": null,
               "category": "Originals",
               "reviews": 20,
+              "in_stock": 27,
+              "buy_price": 210,
+              "location": "USA",
               "gender": "Men",
               "type": "Shoes",
               "size": [
-                     "M 4 / W 5",
-                     "M 4.5 / W 5.5",
-                     "M 5 / W 6  ",
-                     "M 5.5 / W 6.5",
-                     "M 6 / W 7  ",
-                     "M 6.5 / W 7.5",
-                     "M 7 / W 8",
-                     "M 7.5 / W 8.5",
-                     "M 8 / W 9",
-                     "M 8.5 / W 9.5",
-                     "M 9 / W 10 ",
-                     "M 9.5 / W 10.5",
-                     "M 10 / W 11",
-                     "M 10.5 / W 11.5",
-                     "M 11 / W 12",
-                     "M 11.5 / W 12.5",
-                     "M 12 / W 13",
-                     "M 12.5 / W 13.5",
-                     "M 13 / W 14",
-                     "M 13.5 / W 14.5",
-                     "M 14 / W 15"
+                     "4",
+                     "4.5",
+                     "5",
+                     "5.5",
+                     "6",
+                     "6.5",
+                     "7"
               ],
               "available_colors": [
-                     "CORE BLACK",
-                     "CORE BLACK",
-                     "SOLAR RED"
+                     "maroon",
+                     "purple",
+                     "fuchsia"
               ],
               "carousel_images": [
                      "https://adidas-testbucket.s3-us-west-1.amazonaws.com/NMD_R1+Shoes/4/main.webp",
@@ -248,9 +201,7 @@
               "related_shoes": [
                      "https://adidas-testbucket.s3-us-west-1.amazonaws.com/NMD_R1+Shoes/3/main.webp",
                      "https://adidas-testbucket.s3-us-west-1.amazonaws.com/NMD_R1+Shoes/4/main.webp",
-                     "https://adidas-testbucket.s3-us-west-1.amazonaws.com/NMD_R1+Shoes/5/5.webp",
-                     "https://adidas-testbucket.s3-us-west-1.amazonaws.com/NMD_R1+Shoes/6/main.webp",
-                     "https://adidas-testbucket.s3-us-west-1.amazonaws.com/NMD_R1+Shoes/7/main.webp"
+                     "https://adidas-testbucket.s3-us-west-1.amazonaws.com/NMD_R1+Shoes/5/5.webp"
               ],
               "matching_items" : null
        },
@@ -261,35 +212,23 @@
               "old_price": null,
               "category": "Originals",
               "reviews": 20,
+              "in_stock": 5,
+              "buy_price": 135,
+              "location": "USA",
               "gender": "Men",
               "type": "Shoes",
               "size": [
-                     "M 4 / W 5",
-                     "M 4.5 / W 5.5",
-                     "M 5 / W 6  ",
-                     "M 5.5 / W 6.5",
-                     "M 6 / W 7  ",
-                     "M 6.5 / W 7.5",
-                     "M 7 / W 8",
-                     "M 7.5 / W 8.5",
-                     "M 8 / W 9",
-                     "M 8.5 / W 9.5",
-                     "M 9 / W 10 ",
-                     "M 9.5 / W 10.5",
-                     "M 10 / W 11",
-                     "M 10.5 / W 11.5",
-                     "M 11 / W 12",
-                     "M 11.5 / W 12.5",
-                     "M 12 / W 13",
-                     "M 12.5 / W 13.5",
-                     "M 13 / W 14",
-                     "M 13.5 / W 14.5",
-                     "M 14 / W 15"
+                     "4",
+                     "4.5",
+                     "5",
+                     "5.5",
+                     "6",
+                     "6.5"
               ],
               "available_colors": [
-                     "CORE BLACK",
-                     "SIGNAL CORAL",
-                     "BLUEBIRD"
+                     "navy",
+                     "yellow",
+                     "olive"
               ],
               "carousel_images": [
                      "https://adidas-testbucket.s3-us-west-1.amazonaws.com/NMD_R1+Shoes/5/5.webp",
@@ -302,9 +241,7 @@
               "related_shoes": [
                      "https://adidas-testbucket.s3-us-west-1.amazonaws.com/NMD_R1+Shoes/3/main.webp",
                      "https://adidas-testbucket.s3-us-west-1.amazonaws.com/NMD_R1+Shoes/4/main.webp",
-                     "https://adidas-testbucket.s3-us-west-1.amazonaws.com/NMD_R1+Shoes/5/5.webp",
-                     "https://adidas-testbucket.s3-us-west-1.amazonaws.com/NMD_R1+Shoes/6/main.webp",
-                     "https://adidas-testbucket.s3-us-west-1.amazonaws.com/NMD_R1+Shoes/7/main.webp"
+                     "https://adidas-testbucket.s3-us-west-1.amazonaws.com/NMD_R1+Shoes/5/5.webp"
               ],
               "matching_items" : null
        },
@@ -315,35 +252,23 @@
               "old_price": null,
               "category": "Originals",
               "reviews": 20,
+              "in_stock": 11,
+              "buy_price": 90,
+              "location": "EG",
               "gender": "Men",
               "type": "Shoes",
               "size": [
-                     "M 4 / W 5",
-                     "M 4.5 / W 5.5",
-                     "M 5 / W 6  ",
-                     "M 5.5 / W 6.5",
-                     "M 6 / W 7  ",
-                     "M 6.5 / W 7.5",
-                     "M 7 / W 8",
-                     "M 7.5 / W 8.5",
-                     "M 8 / W 9",
-                     "M 8.5 / W 9.5",
-                     "M 9 / W 10 ",
-                     "M 9.5 / W 10.5",
-                     "M 10 / W 11",
-                     "M 10.5 / W 11.5",
-                     "M 11 / W 12",
-                     "M 11.5 / W 12.5",
-                     "M 12 / W 13",
-                     "M 12.5 / W 13.5",
-                     "M 13 / W 14",
-                     "M 13.5 / W 14.5",
-                     "M 14 / W 15"
+                     "4",
+                     "4.5",
+                     "5",
+                     "5.5",
+                     "6",
+                     "6.5"
               ],
               "available_colors": [
-                     "GREY TWO",
-                     "GREY TWO",
-                     "SUPPLIER COLOUR"
+                     "teal",
+                     "aqua",
+                     "blue"
               ],
               "carousel_images": [
                      "https://adidas-testbucket.s3-us-west-1.amazonaws.com/NMD_R1+Shoes/6/main.webp",
@@ -356,9 +281,7 @@
               "related_shoes": [
                      "https://adidas-testbucket.s3-us-west-1.amazonaws.com/NMD_R1+Shoes/3/main.webp",
                      "https://adidas-testbucket.s3-us-west-1.amazonaws.com/NMD_R1+Shoes/4/main.webp",
-                     "https://adidas-testbucket.s3-us-west-1.amazonaws.com/NMD_R1+Shoes/5/5.webp",
-                     "https://adidas-testbucket.s3-us-west-1.amazonaws.com/NMD_R1+Shoes/6/main.webp",
-                     "https://adidas-testbucket.s3-us-west-1.amazonaws.com/NMD_R1+Shoes/7/main.webp"
+                     "https://adidas-testbucket.s3-us-west-1.amazonaws.com/NMD_R1+Shoes/5/5.webp"
               ],
               "matching_items" : null
        },
@@ -369,35 +292,23 @@
               "old_price": null,
               "category": "Originals",
               "reviews": 20,
+              "in_stock": 4,
+              "buy_price": 125,
+              "location": "UK",
               "gender": "Men",
               "type": "Shoes",
               "size": [
-                     "M 4 / W 5",
-                     "M 4.5 / W 5.5",
-                     "M 5 / W 6  ",
-                     "M 5.5 / W 6.5",
-                     "M 6 / W 7  ",
-                     "M 6.5 / W 7.5",
-                     "M 7 / W 8",
-                     "M 7.5 / W 8.5",
-                     "M 8 / W 9",
-                     "M 8.5 / W 9.5",
-                     "M 9 / W 10 ",
-                     "M 9.5 / W 10.5",
-                     "M 10 / W 11",
-                     "M 10.5 / W 11.5",
-                     "M 11 / W 12",
-                     "M 11.5 / W 12.5",
-                     "M 12 / W 13",
-                     "M 12.5 / W 13.5",
-                     "M 13 / W 14",
-                     "M 13.5 / W 14.5",
-                     "M 14 / W 15"
+                     "4",
+                     "4.5",
+                     "5",
+                     "5.5",
+                     "6",
+                     "6.5"
               ],
               "available_colors": [
-                     "CORE BLACK",
-                     "CORE BLACK",
-                     "LUSH RED"
+                     "blue",
+                     "beige",
+                     "azure"
               ],
               "carousel_images": [
                      "https://adidas-testbucket.s3-us-west-1.amazonaws.com/NMD_R1+Shoes/7/main.webp",
@@ -411,9 +322,7 @@
               "related_shoes": [
                      "https://adidas-testbucket.s3-us-west-1.amazonaws.com/NMD_R1+Shoes/3/main.webp",
                      "https://adidas-testbucket.s3-us-west-1.amazonaws.com/NMD_R1+Shoes/4/main.webp",
-                     "https://adidas-testbucket.s3-us-west-1.amazonaws.com/NMD_R1+Shoes/5/5.webp",
-                     "https://adidas-testbucket.s3-us-west-1.amazonaws.com/NMD_R1+Shoes/6/main.webp",
-                     "https://adidas-testbucket.s3-us-west-1.amazonaws.com/NMD_R1+Shoes/7/main.webp"
+                     "https://adidas-testbucket.s3-us-west-1.amazonaws.com/NMD_R1+Shoes/5/5.webp"
               ],
               "matching_items" : null
        },
@@ -424,6 +333,9 @@
               "old_price": null,
               "category": "WOMEN'S ORIGINALS",
               "reviews": 2,
+              "in_stock": 36,
+              "buy_price": 110,
+              "location": "UAE",
               "gender": "Women",
               "type": "Shoes",
               "size": [
@@ -433,18 +345,12 @@
                      "6.5",
                      "7",
                      "7.5",
-                     "8",
-                     "8.5",
-                     "9",
-                     "9.5",
-                     "10 ",
-                     "10.5",
-                     "11"
+                     "8"
               ],
               "available_colors": [
-                     "GREY TWO",
-                     "CHALK CORAL",
-                     "LINEN"
+                     "aquamarine",
+                     "antiquewhite",
+                     "bisque"
               ],
               "carousel_images": [
                      "https://adidas-testbucket.s3-us-west-1.amazonaws.com/NMD_R1+Shoes/8/MAIN.webp",
@@ -457,9 +363,7 @@
               "related_shoes": [
                      "https://adidas-testbucket.s3-us-west-1.amazonaws.com/NMD_R1+Shoes/8/MAIN.webp",
                      "https://adidas-testbucket.s3-us-west-1.amazonaws.com/NMD_R1+Shoes/9/main.webp",
-                     "https://adidas-testbucket.s3-us-west-1.amazonaws.com/NMD_R1+Shoes/10/22d347cdf4be4eda9c95aaff00db5b21_9366.webp",
-                     "https://adidas-testbucket.s3-us-west-1.amazonaws.com/NMD_R1+Shoes/11/main.webp",
-                     "https://adidas-testbucket.s3-us-west-1.amazonaws.com/NMD_R1+Shoes/12/main.webp"
+                     "https://adidas-testbucket.s3-us-west-1.amazonaws.com/NMD_R1+Shoes/10/22d347cdf4be4eda9c95aaff00db5b21_9366.webp"
               ],
               "matching_items" : null
        },
@@ -470,6 +374,9 @@
               "old_price": null,
               "category": "WOMEN'S ORIGINALS",
               "reviews": 2,
+              "in_stock": 17,
+              "buy_price": 205,
+              "location": "UAE",
               "gender": "Women",
               "type": "Shoes",
               "size": [
@@ -478,19 +385,12 @@
                      "6",
                      "6.5",
                      "7",
-                     "7.5",
-                     "8",
-                     "8.5",
-                     "9",
-                     "9.5",
-                     "10 ",
-                     "10.5",
-                     "11"
+                     "7.5"
               ],
               "available_colors": [
-                     "RUNNING WHITE",
-                     "RUNNING WHITE",
-                     "LINEN"
+                     "aquamarine",
+                     "blanchedalmond",
+                     "black"
               ],
               "carousel_images": [
                      "https://adidas-testbucket.s3-us-west-1.amazonaws.com/NMD_R1+Shoes/9/main.webp",
@@ -502,10 +402,8 @@
               ],
               "related_shoes": [
                      "https://adidas-testbucket.s3-us-west-1.amazonaws.com/NMD_R1+Shoes/8/MAIN.webp",
-                     "https://adidas-testbucket.s3-us-west-1.amazonaws.com/NMD_R1+Shoes/9/main.webp",
-                     "https://adidas-testbucket.s3-us-west-1.amazonaws.com/NMD_R1+Shoes/10/22d347cdf4be4eda9c95aaff00db5b21_9366.webp",
-                     "https://adidas-testbucket.s3-us-west-1.amazonaws.com/NMD_R1+Shoes/11/main.webp",
-                     "https://adidas-testbucket.s3-us-west-1.amazonaws.com/NMD_R1+Shoes/12/main.webp"
+                     "https://adidas-testbucket.s3-us-west-1.amazonaws.com/NMD_R1+Shoes/9/main.webp"
+                    
               ],
               "matching_items" : null
        },
@@ -516,16 +414,13 @@
               "old_price": null,
               "category": "WOMEN'S ORIGINALS",
               "reviews": 2,
+              "in_stock": 23,
+              "buy_price": 100,
+              "location": "USA",
               "gender": "Women",
               "type": "Shoes",
               "size": [
-                     "5",
-                     "5.5",
-                     "6",
-                     "6.5",
-                     "7",
-                     "7.5",
-                     "8",
+                    
                      "8.5",
                      "9",
                      "9.5",
@@ -534,9 +429,9 @@
                      "11"
               ],
               "available_colors": [
-                     "CHALK CORAL",
-                     "NIGHT INDIGO",
-                     "SOLAR YELLOW"
+                     "blueviolet",
+                     "burlywood",
+                     "chocolate"
               ],
               "carousel_images": [
                      "https://adidas-testbucket.s3-us-west-1.amazonaws.com/NMD_R1+Shoes/10/22d347cdf4be4eda9c95aaff00db5b21_9366.webp",
@@ -549,10 +444,7 @@
               ],
               "related_shoes": [
                      "https://adidas-testbucket.s3-us-west-1.amazonaws.com/NMD_R1+Shoes/8/MAIN.webp",
-                     "https://adidas-testbucket.s3-us-west-1.amazonaws.com/NMD_R1+Shoes/9/main.webp",
-                     "https://adidas-testbucket.s3-us-west-1.amazonaws.com/NMD_R1+Shoes/10/22d347cdf4be4eda9c95aaff00db5b21_9366.webp",
-                     "https://adidas-testbucket.s3-us-west-1.amazonaws.com/NMD_R1+Shoes/11/main.webp",
-                     "https://adidas-testbucket.s3-us-west-1.amazonaws.com/NMD_R1+Shoes/12/main.webp"
+                     "https://adidas-testbucket.s3-us-west-1.amazonaws.com/NMD_R1+Shoes/9/main.webp"
               ],
               "matching_items" : null
        },
@@ -563,17 +455,14 @@
               "old_price": null,
               "category": "WOMEN'S ORIGINALS",
               "reviews": 3,
+              "in_stock": 14,
+              "buy_price": 85,
+              "location": "UAE",
               "gender": "Women",
               "type": "Shoes",
               "size": [
                      "5",
                      "5.5",
-                     "6",
-                     "6.5",
-                     "7",
-                     "7.5",
-                     "8",
-                     "8.5",
                      "9",
                      "9.5",
                      "10 ",
@@ -581,9 +470,9 @@
                      "11"
               ],
               "available_colors": [
-                     "NIGHT INDIGO",
-                     "PERIWINKLE",
-                     "SHOCK PINK"
+                     "crimson",
+                     "cornsilk",
+                     "cornflowerblue"
               ],
               "carousel_images": [
                      "https://adidas-testbucket.s3-us-west-1.amazonaws.com/NMD_R1+Shoes/11/main.webp",
@@ -597,9 +486,7 @@
               "related_shoes": [
                      "https://adidas-testbucket.s3-us-west-1.amazonaws.com/NMD_R1+Shoes/8/MAIN.webp",
                      "https://adidas-testbucket.s3-us-west-1.amazonaws.com/NMD_R1+Shoes/9/main.webp",
-                     "https://adidas-testbucket.s3-us-west-1.amazonaws.com/NMD_R1+Shoes/10/22d347cdf4be4eda9c95aaff00db5b21_9366.webp",
-                     "https://adidas-testbucket.s3-us-west-1.amazonaws.com/NMD_R1+Shoes/11/main.webp",
-                     "https://adidas-testbucket.s3-us-west-1.amazonaws.com/NMD_R1+Shoes/12/main.webp"
+                     "https://adidas-testbucket.s3-us-west-1.amazonaws.com/NMD_R1+Shoes/10/22d347cdf4be4eda9c95aaff00db5b21_9366.webp"
               ],
               "matching_items" : null
        },
@@ -610,60 +497,45 @@
               "old_price": null,
               "category": "WOMEN'S ORIGINALS",
               "reviews": 3,
+              "in_stock": 8,
+              "buy_price": 240,
+              "location": "USA",
               "gender": "Women",
               "type": "Shoes",
               "size": [
-                     "M 4 / W 5",
-                     "M 4.5 / W 5.5",
-                     "M 5 / W 6  ",
-                     "M 5.5 / W 6.5",
-                     "M 6 / W 7  ",
-                     "M 6.5 / W 7.5",
-                     "M 7 / W 8",
-                     "M 7.5 / W 8.5",
-                     "M 8 / W 9",
-                     "M 8.5 / W 9.5",
-                     "M 9 / W 10 ",
-                     "M 9.5 / W 10.5",
-                     "M 10 / W 11",
-                     "M 10.5 / W 11.5",
-                     "M 11 / W 12",
-                     "M 11.5 / W 12.5",
-                     "M 12 / W 13",
-                     "M 12.5 / W 13.5",
-                     "M 13 / W 14",
-                     "M 13.5 / W 14.5",
-                     "M 14 / W 15"
+                     "4",
+                     "4.5",
+                     "5",
+                     "5.5"
+                     
               ],
               "available_colors": [
-                     "CORE BLACK",
-                     "CORE BLACK",
-                     "CARDBOARD"
+                     "cadetblue",
+                     "burlywood",
+                     "chartreuse"
               ],
               "carousel_images": [
                      "https://adidas-testbucket.s3-us-west-1.amazonaws.com/NMD_R1+Shoes/12/main.webp",
                      "https://adidas-testbucket.s3-us-west-1.amazonaws.com/NMD_R1+Shoes/12/8ca8d61e35b840a78a1eab3b009f6419_9366.webp",
-                     "https://adidas-testbucket.s3-us-west-1.amazonaws.com/NMD_R1+Shoes/12/94deea3f9e6c4d1d8907ab3b009f7380_9366.webp",
-                     "https://adidas-testbucket.s3-us-west-1.amazonaws.com/NMD_R1+Shoes/12/beb9c3082618476194eaab3b009f6b75_9366.webp",
-                     "https://adidas-testbucket.s3-us-west-1.amazonaws.com/NMD_R1+Shoes/12/ceb1edcc7b9740488c5dab3b009f5d30_9366.webp",
-                     "https://adidas-testbucket.s3-us-west-1.amazonaws.com/NMD_R1+Shoes/12/d6c7e6ac73b64e779adeab3b009f7ad1_9366.webp"
+                     "https://adidas-testbucket.s3-us-west-1.amazonaws.com/NMD_R1+Shoes/12/94deea3f9e6c4d1d8907ab3b009f7380_9366.webp"
               ],
               "related_shoes": [
                      "https://adidas-testbucket.s3-us-west-1.amazonaws.com/NMD_R1+Shoes/8/MAIN.webp",
                      "https://adidas-testbucket.s3-us-west-1.amazonaws.com/NMD_R1+Shoes/9/main.webp",
-                     "https://adidas-testbucket.s3-us-west-1.amazonaws.com/NMD_R1+Shoes/10/22d347cdf4be4eda9c95aaff00db5b21_9366.webp",
-                     "https://adidas-testbucket.s3-us-west-1.amazonaws.com/NMD_R1+Shoes/11/main.webp",
-                     "https://adidas-testbucket.s3-us-west-1.amazonaws.com/NMD_R1+Shoes/12/main.webp"
+                     "https://adidas-testbucket.s3-us-west-1.amazonaws.com/NMD_R1+Shoes/10/22d347cdf4be4eda9c95aaff00db5b21_9366.webp"
               ],
               "matching_items" : null
        },
        {
               "id": 13,
               "name": "OVERSIZE SHADOW TREFOIL TEE",
-              "current_price": 21,
+              "current_price": 90,
               "old_price": 110,
               "category": "MEN'S ORIGINALS",
               "reviews": 4,
+              "in_stock": 0,
+              "buy_price": 80,
+              "location": "EG",
               "gender": "Men",
               "type": "Apparel",
               "size": [
@@ -674,8 +546,8 @@
                      "2XL"
               ],
               "available_colors": [
-                     "BLACK",
-                     "GREY THREE"
+                     "darkgrey",
+                     "darkolivegreen"
               ],
               "carousel_images": [
                      "https://adidas-testbucket.s3-us-west-1.amazonaws.com/NMD_R1+Shoes/13/main.webp",
@@ -699,6 +571,9 @@
               "old_price": null,
               "category": "MEN'S ORIGINALS",
               "reviews": 4,
+              "in_stock": 15,
+              "buy_price": 60,
+              "location": "EG",
               "gender": "Men",
               "type": "Apparel",
               "size": [
@@ -747,14 +622,8 @@
                                    "6",
                                    "6.5",
                                    "7",
-                                   "7.5",
-                                   "8",
-                                   "8.5",
-                                   "9",
-                                   "9.5",
-                                   "10 ",
-                                   "10.5",
-                                   "11"
+                                   "7.5"
+                                   
                             ],
                             "image": "https://adidas-testbucket.s3-us-west-1.amazonaws.com/NMD_R1+Shoes/relatedshirt/shoes.webp"
                      }
@@ -767,6 +636,9 @@
               "old_price": 140,
               "category": "MEN'S ORIGINALS",
               "reviews": 4,
+              "in_stock": 22,
+              "buy_price": 60,
+              "location": "UAE",
               "gender": "Men",
               "type": "Apparel",
               "size": [
@@ -777,8 +649,8 @@
                      "2XL"
               ],
               "available_colors": [
-                     "WHITE",
-                     "BLACK"
+                     "darksalmon",
+                     "darkseagreen"
               ],
               "carousel_images": [
                      "https://adidas-testbucket.s3-us-west-1.amazonaws.com/NMD_R1+Shoes/15/main.webp",
@@ -802,35 +674,23 @@
               "old_price": 250,
               "category": "MEN'S BASKETBALL",
               "reviews": "280",
+              "in_stock": 32,
+              "buy_price": 127,
+              "location": "USA",
               "gender": "Women",
               "type": "Shoes",
               "size": [
-                     "M 4 / W 5",
-                     "M 4.5 / W 5.5",
-                     "M 5 / W 6  ",
-                     "M 5.5 / W 6.5",
-                     "M 6 / W 7  ",
-                     "M 6.5 / W 7.5",
-                     "M 7 / W 8",
-                     "M 7.5 / W 8.5",
-                     "M 8 / W 9",
-                     "M 8.5 / W 9.5",
-                     "M 9 / W 10 ",
-                     "M 9.5 / W 10.5",
-                     "M 10 / W 11",
-                     "M 10.5 / W 11.5",
-                     "M 11 / W 12",
-                     "M 11.5 / W 12.5",
-                     "M 12 / W 13",
-                     "M 12.5 / W 13.5",
-                     "M 13 / W 14",
-                     "M 13.5 / W 14.5",
-                     "M 14 / W 15"
+                     "4",
+                     "4.5",
+                     "5",
+                     "5.5",
+                     "6",
+                     "6.5"
               ],
               "available_colors": [
-                     "LIGHT PINK",
-                     "GLOW BLUE",
-                     "GOLD METALLIC"
+                     "darkslategray",
+                     "darkslateblue",
+                     "darkturquoise"
               ],
               "carousel_images": [
                      "https://adidas-testbucket.s3-us-west-1.amazonaws.com/NMD_R1+Shoes/16/main.webp",
@@ -852,35 +712,23 @@
               "old_price": 130,
               "category": "MEN'S BASKETBALL",
               "reviews": 280,
+              "in_stock": 14,
+              "buy_price": 76,
+              "location": "USA",
               "gender": "Men",
               "type": "Shoes",
               "size": [
-                     "M 4 / W 5",
-                     "M 4.5 / W 5.5",
-                     "M 5 / W 6  ",
-                     "M 5.5 / W 6.5",
-                     "M 6 / W 7  ",
-                     "M 6.5 / W 7.5",
-                     "M 7 / W 8",
-                     "M 7.5 / W 8.5",
-                     "M 8 / W 9",
-                     "M 8.5 / W 9.5",
-                     "M 9 / W 10 ",
-                     "M 9.5 / W 10.5",
-                     "M 10 / W 11",
-                     "M 10.5 / W 11.5",
-                     "M 11 / W 12",
-                     "M 11.5 / W 12.5",
-                     "M 12 / W 13",
-                     "M 12.5 / W 13.5",
-                     "M 13 / W 14",
-                     "M 13.5 / W 14.5",
-                     "M 14 / W 15"
+                     "4",
+                     "4.5",
+                     "5",
+                     "5.5",
+                     "6"
+                    
               ],
               "available_colors": [
-                     "SCARLET",
-                     "CLOUD WHITE",
-                     "SOLAR RED"
+                     "ghostwhite",
+                     "gainsboro",
+                     "greenyellow"
               ],
               "carousel_images": [
                      "https://adidas-testbucket.s3-us-west-1.amazonaws.com/17/6ddd0c4eca9943b1b2bdaa4901664a56_9366.webp",
@@ -904,35 +752,23 @@
               "old_price": 130,
               "category": "MEN'S BASKETBALL",
               "reviews": 280,
+              "in_stock": 16,
+              "buy_price": 70,
+              "location": "USA",
               "gender": "Men",
               "type": "Shoes",
               "size": [
-                     "M 4 / W 5",
-                     "M 4.5 / W 5.5",
-                     "M 5 / W 6  ",
-                     "M 5.5 / W 6.5",
-                     "M 6 / W 7  ",
-                     "M 6.5 / W 7.5",
-                     "M 7 / W 8",
-                     "M 7.5 / W 8.5",
-                     "M 8 / W 9",
-                     "M 8.5 / W 9.5",
-                     "M 9 / W 10 ",
-                     "M 9.5 / W 10.5",
-                     "M 10 / W 11",
-                     "M 10.5 / W 11.5",
-                     "M 11 / W 12",
-                     "M 11.5 / W 12.5",
-                     "M 12 / W 13",
-                     "M 12.5 / W 13.5",
-                     "M 13 / W 14",
-                     "M 13.5 / W 14.5",
-                     "M 14 / W 15"
+                     "4",
+                     "4.5",
+                     "5",
+                     "5.5",
+                     "6",
+                     "6.5"
               ],
               "available_colors": [
-                     "GLOW GREEN",
-                     "CORE BLACK",
-                     "CARBON"
+                     "indigo",
+                     "khaki",
+                     "lawngreen"
               ],
               "carousel_images": [
                      "https://adidas-testbucket.s3-us-west-1.amazonaws.com/NMD_R1+Shoes/18/main.webp",
@@ -956,6 +792,9 @@
               "old_price": null,
               "category": "WOMEN'S ORIGINALS",
               "reviews": 12,
+              "in_stock": 28,
+              "buy_price": 140,
+              "location": "UK",
               "gender": "Women",
               "type": "Apparel",
               "size": [
@@ -965,8 +804,8 @@
                      "XL"
               ],
               "available_colors": [
-                     "WHITE",
-                     "BLACK"
+                     "gray",
+                     "lightblue"
               ],
               "carousel_images": [
                      "https://adidas-testbucket.s3-us-west-1.amazonaws.com/NMD_R1+Shoes/19/main.webp",
@@ -976,10 +815,7 @@
                      "https://adidas-testbucket.s3-us-west-1.amazonaws.com/NMD_R1+Shoes/19/c6ea2161088043fcbcb0aac400c8a5e1_9366.webp"
               ],
               "related_shoes": [
-                     "https://adidas-testbucket.s3-us-west-1.amazonaws.com/NMD_R1+Shoes/19/main.webp",
-                     "https://adidas-testbucket.s3-us-west-1.amazonaws.com/NMD_R1+Shoes/20/73445fc10f54448e9fa0ab10012f72cc_9366.webp",
-                     "https://adidas-testbucket.s3-us-west-1.amazonaws.com/NMD_R1+Shoes/21/MAIN.webp",
-                     "https://adidas-testbucket.s3-us-west-1.amazonaws.com/NMD_R1+Shoes/22/main.webp"
+                     "https://adidas-testbucket.s3-us-west-1.amazonaws.com/NMD_R1+Shoes/19/main.webp"
               ],
               "matching_items" : null
        },
@@ -990,6 +826,9 @@
               "old_price": null,
               "category": "WOMEN'S ORIGINALS",
               "reviews": 12,
+              "in_stock": 24,
+              "buy_price": 80,
+              "location": "USA",
               "gender": "Women",
               "type": "Apparel",
               "size": [
@@ -999,8 +838,8 @@
                      "XL"
               ],
               "available_colors": [
-                     "LUSH RED",
-                     "WHITE"
+                     "lavenderblush",
+                     "lightgreen"
               ],
               "carousel_images": [
                      "https://adidas-testbucket.s3-us-west-1.amazonaws.com/NMD_R1+Shoes/20/73445fc10f54448e9fa0ab10012f72cc_9366.webp",
@@ -1025,6 +864,9 @@
               "old_price": null,
               "category": "WOMEN'S ORIGINALS",
               "reviews": 12,
+              "in_stock": 11,
+              "buy_price": 80,
+              "location": "EG",
               "gender": "Women",
               "type": "Apparel",
               "size": [
@@ -1034,8 +876,8 @@
                      "XL"
               ],
               "available_colors": [
-                     "WHITE",
-                     "CLEAR SKY"
+                     "lightskyblue",
+                     "lightseagreen"
               ],
               "carousel_images": [
                      "https://adidas-testbucket.s3-us-west-1.amazonaws.com/NMD_R1+Shoes/21/MAIN.webp",
@@ -1060,6 +902,9 @@
               "old_price": null,
               "category": "WOMEN'S ORIGINALS",
               "reviews": 12,
+              "in_stock": 0,
+              "buy_price": 79,
+              "location": "USA",
               "gender": "Women",
               "type": "Apparel",
               "size": [
@@ -1069,8 +914,8 @@
                      "XL"
               ],
               "available_colors": [
-                     "BLACK",
-                     "WHITE"
+                     "lightsalmon",
+                     "mediumaquamarine"
               ],
               "carousel_images": [
                      "https://adidas-testbucket.s3-us-west-1.amazonaws.com/NMD_R1+Shoes/22/main.webp",
